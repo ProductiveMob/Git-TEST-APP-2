@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "tslint": "5.9.1",
+    "tslint-config-standard": "6.0.1",
+    "tslint-microsoft-contrib": "5.0.1",
+    "typescript": "2.7.1"
+  },
+  "scripts": {
+    "lint": "tslint --project ."
+  }
+}

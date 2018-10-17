@@ -1,0 +1,234 @@
+{
+  "tin": [
+    {
+      "_id": "5bc6ff5a6417b8cbf9000003",
+      "options": {
+        "widgetDataScope": null,
+        "backgroundColor": "#f6f6f6",
+        "statusBarColor": "auto",
+        "statusBarTextColor": "auto",
+        "hideStatusBar": false,
+        "pageTransition": {
+          "name": "none",
+          "duration": 500,
+          "easing": "ease"
+        },
+        "isLoadingFinished": true
+      },
+      "userDisplayName": "Screen 1",
+      "widgetType": "screen"
+    },
+    {
+      "_id": "5bc6ff5d6417b8cbf9000004",
+      "options": {
+        "size": 50,
+        "fontStyle": "normal",
+        "color": "auto",
+        "skeletonPadding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "isLoadingFinished": true,
+        "fontWeight": 400,
+        "isVisible": true,
+        "skeletonBubbleColor": "auto",
+        "opacity": 100,
+        "enterAnimation": {
+          "name": "none"
+        },
+        "text": "",
+        "leaveAnimation": {
+          "name": "none"
+        },
+        "margin": [
+          12,
+          12,
+          12,
+          12
+        ],
+        "fontSize": 18,
+        "skeletonHeight": 18,
+        "backgroundColor": "auto",
+        "skeletonColor": "auto",
+        "skeletonWidth": 30,
+        "skeletonBubbleSize": 50,
+        "skeletonMargin": [
+          24,
+          24,
+          24,
+          24
+        ],
+        "letterSpacing": 0,
+        "textTransform": "uppercase",
+        "direction": "ltr"
+      },
+      "order": 0,
+      "widgetType": "avatar-with-initials",
+      "containerId": "5bc6ff5a6417b8cbf9000003",
+      "areaId": "main",
+      "optionsLinks": {},
+      "propBoxOptions": {}
+    },
+    {
+      "_id": "5bc6ff5e6417b8cbf9000005",
+      "options": {
+        "size": 50,
+        "fontStyle": "normal",
+        "color": "auto",
+        "skeletonPadding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "isLoadingFinished": true,
+        "fontWeight": 400,
+        "isVisible": true,
+        "skeletonBubbleColor": "auto",
+        "opacity": 100,
+        "enterAnimation": {
+          "name": "none"
+        },
+        "text": "",
+        "leaveAnimation": {
+          "name": "none"
+        },
+        "margin": [
+          12,
+          12,
+          12,
+          12
+        ],
+        "fontSize": 18,
+        "skeletonHeight": 18,
+        "backgroundColor": "auto",
+        "skeletonColor": "auto",
+        "skeletonWidth": 30,
+        "skeletonBubbleSize": 50,
+        "skeletonMargin": [
+          24,
+          24,
+          24,
+          24
+        ],
+        "letterSpacing": 0,
+        "textTransform": "uppercase",
+        "direction": "ltr"
+      },
+      "order": 1,
+      "widgetType": "avatar-with-initials",
+      "containerId": "5bc6ff5a6417b8cbf9000003",
+      "areaId": "main",
+      "optionsLinks": {},
+      "propBoxOptions": {}
+    },
+    {
+      "_id": "5bc6ff5e6417b8cbf9000006",
+      "options": {
+        "size": 50,
+        "fontStyle": "normal",
+        "color": "auto",
+        "skeletonPadding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "isLoadingFinished": true,
+        "fontWeight": 400,
+        "isVisible": true,
+        "skeletonBubbleColor": "auto",
+        "opacity": 100,
+        "enterAnimation": {
+          "name": "none"
+        },
+        "text": "",
+        "leaveAnimation": {
+          "name": "none"
+        },
+        "margin": [
+          12,
+          12,
+          12,
+          12
+        ],
+        "fontSize": 18,
+        "skeletonHeight": 18,
+        "backgroundColor": "auto",
+        "skeletonColor": "auto",
+        "skeletonWidth": 30,
+        "skeletonBubbleSize": 50,
+        "skeletonMargin": [
+          24,
+          24,
+          24,
+          24
+        ],
+        "letterSpacing": 0,
+        "textTransform": "uppercase",
+        "direction": "ltr"
+      },
+      "order": 2,
+      "widgetType": "avatar-with-initials",
+      "containerId": "5bc6ff5a6417b8cbf9000003",
+      "areaId": "main",
+      "optionsLinks": {},
+      "propBoxOptions": {}
+    },
+    {
+      "_id": "5bc6ff5e6417b8cbf9000007",
+      "options": {
+        "size": 50,
+        "fontStyle": "normal",
+        "color": "auto",
+        "skeletonPadding": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "isLoadingFinished": true,
+        "fontWeight": 400,
+        "isVisible": true,
+        "skeletonBubbleColor": "auto",
+        "opacity": 100,
+        "enterAnimation": {
+          "name": "none"
+        },
+        "text": "",
+        "leaveAnimation": {
+          "name": "none"
+        },
+        "margin": [
+          12,
+          12,
+          12,
+          12
+        ],
+        "fontSize": 18,
+        "skeletonHeight": 18,
+        "backgroundColor": "auto",
+        "skeletonColor": "auto",
+        "skeletonWidth": 30,
+        "skeletonBubbleSize": 50,
+        "skeletonMargin": [
+          24,
+          24,
+          24,
+          24
+        ],
+        "letterSpacing": 0,
+        "textTransform": "uppercase",
+        "direction": "ltr"
+      },
+      "order": 3,
+      "widgetType": "avatar-with-initials",
+      "containerId": "5bc6ff5a6417b8cbf9000003",
+      "areaId": "main",
+      "optionsLinks": {},
+      "propBoxOptions": {}
+    }
+  ]
+}
